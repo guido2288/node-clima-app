@@ -1,0 +1,8 @@
+# Ignora archivos en carpeta DB
+DB/*.json
+
+# Ignora carpeta node_modules
+node_modules/
+
+# Ignora archivos relacionados a API keys
+.env
